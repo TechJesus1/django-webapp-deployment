@@ -1,2 +1,3 @@
-# django-webapp-deployment
-This repository showcases a Django web app deployed on Kubernetes, demonstrating MVC architecture, Docker containerization, and Kubernetes deployment.
+# My Django Project
+
+Welcome to my Django project repository! Here, I've shared the source code for a Django web application that I've deployed on Kubernetes. This project serves as a demonstration of the Model-View-Controller (MVC) pattern using Django, a Python web framework known for its simplicity and versatility. You'll find components such as models, views, and templates organized according to Django's conventions. To ensure easy deployment and scalability, I've containerized the application using Docker. Additionally, Kubernetes manifests are provided for seamless deployment, enabling efficient management of pods, services, and deployments. I hope this project serves as a helpful example of modern web development practices leveraging Django and Kubernetes technologies.
